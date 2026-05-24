@@ -36,7 +36,7 @@ Tujuan utama penelitian ini menghadirkan sistem klasifikasi untuk artikel jurnal
 ## 📊 Results
 Penerapan kombinasi LDA dan SVM menghasilkan hasil evaluasi berbeda dari kedua tipe data uji, diantaranya:
 
-**Abstrak saja**
+**Abstrak saja**<br>
   Coherence score: 0.217<br>
   Accuracy: 79% | Precision: 84% | Recall: 79% | F1-score: 81%<br>
   
